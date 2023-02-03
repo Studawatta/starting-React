@@ -29,6 +29,7 @@ function App() {
       }}
     >
       <h1 className="title">Pokemon Search</h1>
+      <input />
       <table width="100%">
         <thead>
           <tr>
